@@ -198,7 +198,7 @@ div.header-lined .breadcrumb li a {
     color: #888;
 }
 div.header-lined .breadcrumb > .active {
-    color: #0e5077;
+    color: #0d5aaa;
 }
 
 div.header-lined small {
@@ -826,7 +826,7 @@ ul.top-nav > li.primary-action {
 }
 ul.top-nav > li.primary-action > a.btn {
     padding: 6px 15px;
-    background-color: #0e5077;
+    background-color: #0d5aaa;
     color: #fff;
     border-radius: 3px;
 }
