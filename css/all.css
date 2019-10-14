@@ -7856,7 +7856,7 @@ h6 {
     font-size: 15px;
 }
 .navbar-main li.account {
-    background-color: #043d5f;
+    background-color: #333;
 }
 
 .navbar-main .navbar-nav > li > a {
@@ -7877,7 +7877,7 @@ h6 {
 .navbar-main .navbar-nav > .open > a:hover,
 .navbar-main .navbar-nav > .open > a:focus {
     color: #eee;
-    background-color: #043d5f;
+    background-color: #333;
 }
 
 #main-menu .navbar-nav {
@@ -8183,7 +8183,7 @@ section#footer .back-to-top i {
 }
 .navbar-main .navbar-toggle:focus .icon-bar,
 .navbar-main .navbar-toggle:hover .icon-bar {
-    background-color: #bbb;
+    background-color: #1078bd;
 }
 
 @media (max-width: 991px) {
@@ -8413,7 +8413,7 @@ section#main-menu {
 section#home-banner {
     margin: 0;
     padding: 50px 0 60px;
-    background-color: #043d5f;
+    background-color: #333;
     color: #fff;
 }
 
@@ -8460,7 +8460,7 @@ section#home-banner .btn.search {
     background-color: #78bbe6;
 }
 section#home-banner .btn.transfer {
-    background-color: #bbb;
+    background-color: #1078bd;
 }
 
 @media (max-width: 992px) {
@@ -11375,7 +11375,7 @@ div.md-editor.active {
     pointer-events: none;
 }
 #registration .field-icon i {
-    color: #bbb;
+    color: #1078bd;
 }
 
 #registration .field[disabled],

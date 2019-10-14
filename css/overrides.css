@@ -42,7 +42,7 @@ h6 {
     font-size: 15px;
 }
 .navbar-main li.account {
-    background-color: #043d5f;
+    background-color: #333;
 }
 
 .navbar-main .navbar-nav > li > a {
@@ -63,7 +63,7 @@ h6 {
 .navbar-main .navbar-nav > .open > a:hover,
 .navbar-main .navbar-nav > .open > a:focus {
     color: #eee;
-    background-color: #043d5f;
+    background-color: #333;
 }
 
 #main-menu .navbar-nav {
