@@ -8115,9 +8115,9 @@ section#main-content {
 section#footer {
     margin: 0;
     padding: 20px 10px;
-    background-color: #f8f8f8;
-    border-top: 1px solid #ddd;
-    color: #666;
+    background-color: #333;
+    border-width: 0px;
+    color: #929292;
     font-size: 0.9em;
 }
 section#footer p {
