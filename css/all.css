@@ -3265,27 +3265,27 @@ fieldset[disabled] .btn-primary.focus {
 }
 .btn-success {
   color: #fff;
-  background-color: #5cb85c;
-  border-color: #4cae4c;
+  background-color: #0d5aaa;
+  border-color: #000000;
 }
 .btn-success:focus,
 .btn-success.focus {
   color: #fff;
-  background-color: #449d44;
-  border-color: #255625;
+  background-color: #78bbe6;
+  border-color: #13b0e7;
 }
 .btn-success:hover {
   color: #fff;
-  background-color: #449d44;
-  border-color: #398439;
+  background-color: #78bbe6;
+  border-color: #13b0e7;
 }
 .btn-success:active,
 .btn-success.active,
 .open > .dropdown-toggle.btn-success {
   color: #fff;
-  background-color: #449d44;
+  background-color: #78bbe6;
   background-image: none;
-  border-color: #398439;
+  border-color: #13b0e7;
 }
 .btn-success:active:hover,
 .btn-success.active:hover,
@@ -3297,8 +3297,8 @@ fieldset[disabled] .btn-primary.focus {
 .btn-success.active.focus,
 .open > .dropdown-toggle.btn-success.focus {
   color: #fff;
-  background-color: #398439;
-  border-color: #255625;
+  background-color: #13b0e7;
+  border-color: #505557;
 }
 .btn-success.disabled:hover,
 .btn-success[disabled]:hover,
@@ -3309,12 +3309,12 @@ fieldset[disabled] .btn-success:focus,
 .btn-success.disabled.focus,
 .btn-success[disabled].focus,
 fieldset[disabled] .btn-success.focus {
-  background-color: #5cb85c;
-  border-color: #4cae4c;
+  background-color: #0d5aaa;
+  border-color: #000000;
 }
 .btn-success .badge {
-  color: #5cb85c;
-  background-color: #fff;
+  color: #0d5aaa;
+  border-color: #000000;
 }
 .btn-info {
   color: #fff;
@@ -4958,7 +4958,7 @@ a.label:focus {
   background-color: #286090;
 }
 .label-success {
-  background-color: #5cb85c;
+  background-color: #0d5aaa;
 }
 .label-success[href]:hover,
 .label-success[href]:focus {
@@ -5238,7 +5238,7 @@ a.thumbnail.active {
   animation: progress-bar-stripes 2s linear infinite;
 }
 .progress-bar-success {
-  background-color: #5cb85c;
+  background-color: #0d5aaa;
 }
 .progress-striped .progress-bar-success {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
@@ -7827,7 +7827,7 @@ input,
 button,
 select,
 textarea {
-  font-family: "Open Sans", Verdana, Tahoma, serif;
+  font-family: "Open Sans", sans-serif;
   color: #333333;
 }
 
@@ -7837,7 +7837,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 700;
 }
 
@@ -7852,7 +7852,7 @@ h6 {
     background-color: #0d5aaa;
     border: 0;
     min-height: 38px;
-    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 15px;
 }
 .navbar-main li.account {
@@ -7876,8 +7876,8 @@ h6 {
 .navbar-main .navbar-nav > .open > a,
 .navbar-main .navbar-nav > .open > a:hover,
 .navbar-main .navbar-nav > .open > a:focus {
-    color: #eee;
-    background-color: #333;
+    color: #000000;
+    background-color: #78bbe6;
 }
 
 #main-menu .navbar-nav {
@@ -8077,7 +8077,7 @@ section#header .logo img {
     vertical-align: middle;
 }
 section#header .logo-text {
-    font-family: 'Raleway';
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 2.6em;
     white-space: nowrap;
@@ -9015,7 +9015,7 @@ div.domainresults table tr td {
     text-align: center;
 }
 .domain-checker-available {
-    color: #5cb85c;
+    color: #0d5aaa;
 }
 .domain-checker-unavailable,
 .domain-checker-invalid {
@@ -9846,7 +9846,7 @@ table.dtr-inline.collapsed .responsive-edit-button {
 }
 .popover-user-notifications ul li i.fas.fa-check-circle,
 .popover-user-notifications ul li i.far.fa-check-circle{
-    color: #5cb85c;
+    color: #0d5aaa;
 }
 .popover-user-notifications ul li i.fas.fa-warning,
 .popover-user-notifications ul li i.far.fa-warning {
@@ -10627,11 +10627,11 @@ tr.masspay-total td {
 .email-verification.success {
     background-color: #ebfde4;
     border-bottom: 1px solid #e3f7d5;
-    color: #5cb85c;
+    color: #0d5aaa;
 }
 .email-verification.success .fas,
 .email-verification.success .far {
-    color: #6fbb51;
+    color: #78bbe6;
 }
 .email-verification.failed {
     background-color: #fdf8e3;
@@ -11684,7 +11684,7 @@ form[data-role="json-form"] .has-error .tooltip.top .tooltip-arrow {
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-success,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-success {
   color: #fff;
-  background: #5cb85c;
+  background: #0d5aaa;
 }
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-warning,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-warning {

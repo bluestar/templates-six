@@ -13,7 +13,7 @@ input,
 button,
 select,
 textarea {
-  font-family: "Open Sans", Verdana, Tahoma, serif;
+  font-family: "Open Sans", sans-serif;
   color: #333333;
 }
 
@@ -23,7 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 700;
 }
 
@@ -38,7 +38,7 @@ h6 {
     background-color: #0d5aaa;
     border: 0;
     min-height: 38px;
-    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 15px;
 }
 .navbar-main li.account {

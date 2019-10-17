@@ -52,7 +52,7 @@ section#header .logo img {
     vertical-align: middle;
 }
 section#header .logo-text {
-    font-family: 'Raleway';
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 2.6em;
     white-space: nowrap;
@@ -990,7 +990,7 @@ div.domainresults table tr td {
     text-align: center;
 }
 .domain-checker-available {
-    color: #5cb85c;
+    color: #0d5aaa;
 }
 .domain-checker-unavailable,
 .domain-checker-invalid {
@@ -1821,7 +1821,7 @@ table.dtr-inline.collapsed .responsive-edit-button {
 }
 .popover-user-notifications ul li i.fas.fa-check-circle,
 .popover-user-notifications ul li i.far.fa-check-circle{
-    color: #5cb85c;
+    color: #0d5aaa;
 }
 .popover-user-notifications ul li i.fas.fa-warning,
 .popover-user-notifications ul li i.far.fa-warning {
@@ -2139,8 +2139,8 @@ div.sidebar .list-group-item-selected .badge {
  */
 
 .btn.btn-action {
-    background-color: #72CA06;
-    border-color: #498302;
+    background-color: #13b0e7;
+    border-color: #0d5aaa;
 }
 
 /**
@@ -2602,11 +2602,11 @@ tr.masspay-total td {
 .email-verification.success {
     background-color: #ebfde4;
     border-bottom: 1px solid #e3f7d5;
-    color: #5cb85c;
+    color: #0d5aaa;
 }
 .email-verification.success .fas,
 .email-verification.success .far {
-    color: #6fbb51;
+    color: #78bbe6;
 }
 .email-verification.failed {
     background-color: #fdf8e3;
@@ -2898,7 +2898,7 @@ div.md-editor.active {
 }
 .store-promoted-product ul.features li .fa:not(.fa-spinner) {
     font-size: 1.2em;
-    color: #91c590;
+    color: #13b0e7;
     margin-left: 20px;
     margin-right: 10px;
 }
@@ -2988,7 +2988,7 @@ div.md-editor.active {
 
 .promo-banner .fa:not(.fa-spinner) {
     font-size: 1.2em;
-    color: #91c590;
+    color: #13b0e7;
     margin-left: 20px;
     margin-right: 10px;
 }
@@ -3419,7 +3419,7 @@ div.md-editor.active {
     text-align: center;
 }
 .upgrade .products .product .recommended {
-    background-color: #25ac2f;
+    background-color: #13b0e7;
 }
 .upgrade .products .product ul {
     border-left: 1px solid #eee;
@@ -3464,7 +3464,7 @@ div.md-editor.active {
     font-size: 1.3em;
 }
 .upgrade .products .fa-check {
-    color: #23ad2e;
+    color: #78bbe6;
 }
 .upgrade .products .product .footer {
     margin: 0;
