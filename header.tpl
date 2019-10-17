@@ -164,7 +164,7 @@
             {/if}
         </div>
     </section>
-    <div class="home-shortcuts">
+    <!--<div class="home-shortcuts">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 hidden-sm hidden-xs text-center">
@@ -212,7 +212,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
 {/if}
 
 {include file="$template/includes/verifyemail.tpl"}
