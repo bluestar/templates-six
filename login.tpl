@@ -48,4 +48,9 @@
             {include file="$template/includes/linkedaccounts.tpl" linkContext="login" customFeedback=true}
         </div>
     </div>
+    <div class="row">
+        <div class="col-sm-{if $linkableProviders}7{else}12{/if}">
+            {$oneall_social_login_embedded}
+        </div>
+    </div>
 </div>

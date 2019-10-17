@@ -25,6 +25,12 @@
     {include file="$template/includes/alert.tpl" type="error" errorshtml=$errormessage}
 {/if}
 
+<div class="row">
+    <div class="col-sm-12">
+        {$oneall_social_login_embedded}
+    </div>
+</div>
+
 {if !$registrationDisabled}
 <div id="registration">
     <form method="post" class="using-password-strength" action="{$smarty.server.PHP_SELF}" role="form" name="orderfrm" id="frmCheckout">
